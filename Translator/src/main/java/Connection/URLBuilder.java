@@ -7,7 +7,7 @@ public class URLBuilder {
 
     public URLBuilder(){}
     /**
-     * build a string in the format that https://www.deepl.com/de/
+     * builds a string in the format that https://www.deepl.com/de/
      * uses
      * @param searchedWords
      */
